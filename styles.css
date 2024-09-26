@@ -1,0 +1,67 @@
+* {
+    font-family: 'Segoe UI', "Times New Roman", Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 16, 70);
+    
+}
+
+h1,
+.picture,
+h2 {
+    text-align: center;
+}
+
+#nav {
+    display: inline-block;
+    margin-left: 42%;
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(201, 14, 123);
+    
+}
+
+h2{
+    font-size: 35px;
+    
+}
+
+#area {
+    background-color: rgb(117, 59, 74);
+    border: 4px;
+    border-color: black;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: auto;
+    
+}
+
+.thinpicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 450px;
+}
+
+.recipe {
+    text-align: left;
+    font-size: 25px;
+    margin-left: 10%;
+    
+}
+
+li {
+    color: rgb(39, 10, 109);
+}
+
+h1{
+    display: block;
+    font-size: 55px;
+    color: #4b00f2;
+    
+    
+}
